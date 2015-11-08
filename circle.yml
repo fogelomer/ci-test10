@@ -1,0 +1,4 @@
+test:
+  override:
+    - sudo ./test10.sh
+
