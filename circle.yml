@@ -4,7 +4,7 @@ test:
     
 deployment:
   release:
-    tag: .*
+    tag: /.*/
     commands:
-      - "true" 
+      - (true) 
 
